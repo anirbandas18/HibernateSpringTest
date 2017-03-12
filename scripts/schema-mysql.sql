@@ -1,0 +1,1 @@
+insert into id_gen values('subject_id',1);
